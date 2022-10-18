@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://zhouya.com/2020/03/10/page/</loc>
-    <lastmod>2022-10-10</lastmod>
+    <loc>http://zhouya.com/2022/10/17/Work-Direct%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2022-10-17</lastmod>
   </url>
   <url>
-    <loc>http://zhouya.com/2020/03/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2022-10-07</lastmod>
+    <loc>http://zhouya.com/2022/10/15/rabbitmq%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2022-10-17</lastmod>
+  </url>
+  <url>
+    <loc>http://zhouya.com/2022/10/15/JMeter/</loc>
+    <lastmod>2022-10-17</lastmod>
+  </url>
+  <url>
+    <loc>http://zhouya.com/2020/03/10/markdown%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2022-10-15</lastmod>
+  </url>
+  <url>
+    <loc>http://zhouya.com/2020/03/10/nginx/</loc>
+    <lastmod>2022-10-12</lastmod>
+  </url>
+  <url>
+    <loc>http://zhouya.com/2020/03/10/%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
+    <lastmod>2022-10-12</lastmod>
+  </url>
+  <url>
+    <loc>http://zhouya.com/2020/03/10/springboot%E6%95%B4%E5%90%88validation/</loc>
+    <lastmod>2022-10-10</lastmod>
   </url>
 </urlset> 
