@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhouya.com/2022/10/23/bean%E7%9A%84%E5%8A%A0%E8%BD%BD/</loc>
+    
+    <lastmod>2022-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zhouya.com/2022/10/18/initializingBean%E7%BB%84%E4%BB%B6/</loc>
     
     <lastmod>2022-10-18</lastmod>
@@ -76,7 +85,7 @@
 
   <url>
     <loc>http://zhouya.com/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,7 +93,7 @@
   
   <url>
     <loc>http://zhouya.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%EF%BC%8C%E5%8F%AF%E7%A9%BA%EF%BC%8C%E5%A4%9A%E6%A0%87%E7%AD%BE%E8%AF%B7%E7%94%A8%E6%A0%BC%E5%BC%8F%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%86%92%E5%8F%B7-%E5%90%8E%E9%9D%A2%E6%9C%89%E4%B8%AA%E7%A9%BA%E6%A0%BC/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -93,49 +102,49 @@
   
   <url>
     <loc>http://zhouya.com/categories/spring-boot%E7%BB%84%E4%BB%B6-%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhouya.com/categories/nginx/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhouya.com/categories/rabbitmq/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhouya.com/categories/springboot%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhouya.com/categories/springboot%E7%BB%84%E4%BB%B6/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhouya.com/categories/springboot%E6%8E%A5%E5%8F%A3/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zhouya.com/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
