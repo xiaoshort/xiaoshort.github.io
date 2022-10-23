@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhouya.com/2022/10/17/rabbitmq%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</loc>
+    <loc>http://zhouya.com/2022/10/23/bean%E7%9A%84%E5%8A%A0%E8%BD%BD/</loc>
     
     <lastmod>2022-10-23</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://zhouya.com/2022/10/23/bean%E7%9A%84%E5%8A%A0%E8%BD%BD/</loc>
+    <loc>http://zhouya.com/2022/10/17/rabbitmq%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</loc>
     
     <lastmod>2022-10-23</lastmod>
     
@@ -144,6 +144,13 @@
   
   <url>
     <loc>http://zhouya.com/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhouya.com/categories/springboot%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
