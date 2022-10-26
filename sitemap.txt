@@ -1,3 +1,4 @@
+http://xiaoshort.github.io/2022/10/27/%E8%87%AA%E5%AE%9A%E4%B9%89starter/
 http://xiaoshort.github.io/2022/10/23/bean%E7%9A%84%E5%8A%A0%E8%BD%BD/
 http://xiaoshort.github.io/2022/10/18/initializingBean%E7%BB%84%E4%BB%B6/
 http://xiaoshort.github.io/2022/10/17/rabbitmq%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/
