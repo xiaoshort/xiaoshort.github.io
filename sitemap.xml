@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xiaoshort.github.io/2022/10/23/bean%E7%9A%84%E5%8A%A0%E8%BD%BD/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2022/10/23/bean%E7%9A%84%E5%8A%A0%E8%BD%BD/</loc>
     
     <lastmod>2022-10-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2022/10/18/initializingBean%E7%BB%84%E4%BB%B6/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2022/10/18/initializingBean%E7%BB%84%E4%BB%B6/</loc>
     
     <lastmod>2022-10-23</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2022/10/17/rabbitmq%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2022/10/17/rabbitmq%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</loc>
     
     <lastmod>2022-10-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2022/10/15/rabbitmq%E5%AE%89%E8%A3%85/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2022/10/15/rabbitmq%E5%AE%89%E8%A3%85/</loc>
     
     <lastmod>2022-10-18</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2022/10/15/JMeter/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2022/10/15/JMeter/</loc>
     
     <lastmod>2022-10-18</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2020/03/10/markdown%E8%AF%AD%E6%B3%95/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2020/03/10/markdown%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2022-10-18</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2020/03/10/validation%E7%BB%84%E4%BB%B6/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2020/03/10/validation%E7%BB%84%E4%BB%B6/</loc>
     
     <lastmod>2022-10-18</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2020/03/10/nginx/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2020/03/10/nginx/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/2020/03/10/%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/2020/03/10/%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -84,7 +84,7 @@
   
 
   <url>
-    <loc>http://xiaoshort.github.io/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -92,7 +92,7 @@
 
   
   <url>
-    <loc>http://xiaoshort.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%EF%BC%8C%E5%8F%AF%E7%A9%BA%EF%BC%8C%E5%A4%9A%E6%A0%87%E7%AD%BE%E8%AF%B7%E7%94%A8%E6%A0%BC%E5%BC%8F%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%86%92%E5%8F%B7-%E5%90%8E%E9%9D%A2%E6%9C%89%E4%B8%AA%E7%A9%BA%E6%A0%BC/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%EF%BC%8C%E5%8F%AF%E7%A9%BA%EF%BC%8C%E5%A4%9A%E6%A0%87%E7%AD%BE%E8%AF%B7%E7%94%A8%E6%A0%BC%E5%BC%8F%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%86%92%E5%8F%B7-%E5%90%8E%E9%9D%A2%E6%9C%89%E4%B8%AA%E7%A9%BA%E6%A0%BC/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -101,56 +101,56 @@
 
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/spring-boot%E7%BB%84%E4%BB%B6-%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/spring-boot%E7%BB%84%E4%BB%B6-%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/nginx/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/nginx/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/rabbitmq/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/rabbitmq/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/springboot%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/springboot%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/springboot%E7%BB%84%E4%BB%B6/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/springboot%E7%BB%84%E4%BB%B6/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/springboot%E6%8E%A5%E5%8F%A3/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/springboot%E6%8E%A5%E5%8F%A3/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiaoshort.github.io/categories/springboot%E5%8E%9F%E7%90%86/</loc>
+    <loc>http://xiaoshort.github.io/xiaoshort.github.io/categories/springboot%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
