@@ -22,3 +22,4 @@ http://xiaoshort.github.io/categories/%E5%85%B6%E4%BB%96/
 http://xiaoshort.github.io/categories/springboot%E5%8E%9F%E7%90%86/
 http://xiaoshort.github.io/categories/MySQL/
 http://xiaoshort.github.io/categories/MySQL/%E9%9D%A2%E8%AF%95/
+http://xiaoshort.github.io/categories/%E7%AC%AC%E4%B8%89%E6%96%B9API/
